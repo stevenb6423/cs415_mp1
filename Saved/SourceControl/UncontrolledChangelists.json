@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_HP.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Enemy.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Projectile.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/NewBlueprint.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"/Users/steven/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack.uasset"
+			]
+		}
+	]
+}
